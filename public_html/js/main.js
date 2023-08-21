@@ -122,5 +122,15 @@
         }
     });
     
+    $('#sendEmailButton').click(function() {
+        var recipient = $('#recipientEmail').val();
+        var subject = $('#emailSubject').val();
+        var message = $('#emailMessage').val();
+        
+        $.post('sendEmail.php', { recipient: recipient, subject: subject, message: message }, function(response) {
+            // Handle the response from the server
+        });
+    });
+    
 })(jQuery);
 
