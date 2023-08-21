@@ -8,6 +8,11 @@
                          <h1 class="m-0 text-white"><i class="fa fa-layer-group me-2"></i>Aaravix</h1>
                      </a>
                      <p class="mt-3 mb-4">Lorem diam sit erat dolor elitr et, diam lorem justo amet clita stet eos sit. Elitr dolor duo lorem, elitr clita ipsum sea. Diam amet erat lorem stet eos. Diam amet et kasd eos duo.</p>
+                     <a href="index.php" class="navbar-brand p-0">
+                         <h1 class="m-0">
+                             <img class="position-absolut rounded wow zoomIn" style="width:20vw" data-wow-delay="0.9s" src="img/aaravix-logo.jpeg" style="object-fit: cover;">
+                         </h1>
+                     </a>
                  </div>
              </div>
              <div class="col-lg-8 col-md-6">
