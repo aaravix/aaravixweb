@@ -2,12 +2,13 @@
     $recipient = $_POST['recipient'];
     $subject = $_POST['subject'];
     $message = $_POST['message'];
+    $name = $_POST['name'];
 
-    $headers = "From: your@example.com";
+    $msg = "From: ".$name.',<br>'.$message;
+    $headers = "From: support@aaravix.com";
 
     if (mail($recipient, $subject, $message, $headers)) {
-        echo "Email sent successfully";
+        echo json_encode(['message' => 'Email sent successfully']);
     } else {
-        echo "Email sending failed";
+        echo json_encode(['error' => 'Email sending failed']);
     }
-?>

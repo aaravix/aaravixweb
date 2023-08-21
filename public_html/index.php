@@ -13,7 +13,7 @@ include 'commonpage/header.php'; // Include the header
                     </h1>
                     <a href="quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free
                         Quote</a>
-                    <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                    <a href="contact.php" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                 </div>
             </div>
         </div>
@@ -26,7 +26,7 @@ include 'commonpage/header.php'; // Include the header
                     </h1>
                     <a href="quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free
                         Quote</a>
-                    <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                    <a href="contact.php" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                 </div>
             </div>
         </div>
