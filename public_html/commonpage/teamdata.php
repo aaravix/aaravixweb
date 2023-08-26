@@ -8,16 +8,16 @@
         <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
             <div class="team-item bg-light rounded overflow-hidden">
                 <div class="team-img position-relative overflow-hidden">
-                    <img class="img-fluid w-100" src="img/team-1.jpg" alt="">
+                    <img class="img-fluid w-100" src="img/aaravix-fab.jpeg" alt="">
                     <div class="team-social">
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-instagram fw-normal"></i></a>
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
+                        <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-twitter fw-normal"></i></a> -->
+                        <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
+                        <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-instagram fw-normal"></i></a> -->
+                        <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
                     </div>
                 </div>
                 <div class="text-center py-4">
-                    <h4 class="text-primary">Vishal K</h4>
+                    <h4 class="text-primary">SAN</h4>
                     <p class="text-uppercase m-0"><strong>CEO and Founder</strong></p>
                     <p>Vishal K, with his brimming entrepreneurial spirit, is the one who laid the foundation stone of Aaravix back in 2017 all by himself.</p>
                     <p>Vishal K has around 12 years of technical experience and he has been instrumental in transforming hundreds of businesses to achieve their goals through digital solutions.</p>
@@ -27,12 +27,12 @@
         <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
             <div class="team-item bg-light rounded overflow-hidden">
                 <div class="team-img position-relative overflow-hidden">
-                    <img class="img-fluid w-100" src="img/team-2.jpg" alt="">
+                    <img class="img-fluid w-100" src="img/director.jpg" alt="">
                     <div class="team-social">
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-instagram fw-normal"></i></a>
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
+                        <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a> -->
+                        <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href="https://www.facebook.com/shubhamraj.2528"><i class="fab fa-facebook-f fw-normal"></i></a>
+                        <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-instagram fw-normal"></i></a> -->
+                        <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href="https://www.linkedin.com/in/shubham-raj-9654b590/"><i class="fab fa-linkedin-in fw-normal"></i></a>
                     </div>
                 </div>
                 <div class="text-center py-4">
@@ -47,12 +47,12 @@
         <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
             <div class="team-item bg-light rounded overflow-hidden">
                 <div class="team-img position-relative overflow-hidden">
-                    <img class="img-fluid w-100" src="img/team-3.jpg" alt="">
+                    <img class="img-fluid w-100" src="img/aaravix-fab.jpeg" alt="">
                     <div class="team-social">
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-instagram fw-normal"></i></a>
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
+                        <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-twitter fw-normal"></i></a> -->
+                        <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
+                        <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-instagram fw-normal"></i></a> -->
+                        <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
                     </div>
                 </div>
                 <div class="text-center py-4">

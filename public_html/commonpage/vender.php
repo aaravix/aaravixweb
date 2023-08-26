@@ -1,4 +1,4 @@
-<div class="container py-5 mb-5">
+<!-- <div class="container py-5 mb-5">
     <div class="bg-white">
         <div class="owl-carousel vendor-carousel">
             <img src="img/vendor-1.jpg" alt="">
@@ -12,4 +12,4 @@
             <img src="img/vendor-9.jpg" alt="">
         </div>
     </div>
-</div>
+</div> -->

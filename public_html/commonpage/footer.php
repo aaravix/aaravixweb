@@ -4,15 +4,21 @@
          <div class="row gx-5">
              <div class="col-lg-4 col-md-6 footer-about">
                  <div class="d-flex flex-column align-items-center justify-content-center text-center h-100 bg-primary p-4">
-                     <a href="index.php" class="navbar-brand">
+                     <!-- <a href="/" class="navbar-brand">
                          <h1 class="m-0 text-white"><i class="fa fa-layer-group me-2"></i>Aaravix</h1>
+                     </a> -->
+                     <a href="/" class="navbar-brand p-0">
+                         <h1 class="m-0">
+                             <img class="position-absolut rounded wow zoomIn" style="width:20vw; max-width: 250px;" data-wow-delay="0.9s" src="img/a_logo.png" style="object-fit: cover;">
+                         </h1>
                      </a>
-                     <p class="mt-3 mb-4">Lorem diam sit erat dolor elitr et, diam lorem justo amet clita stet eos sit. Elitr dolor duo lorem, elitr clita ipsum sea. Diam amet erat lorem stet eos. Diam amet et kasd eos duo.</p>
-                     <a href="index.php" class="navbar-brand p-0">
+                     <h4 class="mb-0">Empowering Your IT Journey</h4>
+                     <p class="mt-3 mb-4">With 6+ years of expertise, we offer tailored IT solutions for success. Our team provides prompt assistance and unmatched customer care. Elevate your IT journey with our proven commitment to excellence.</p>
+                     <!-- <a href="/" class="navbar-brand p-0">
                          <h1 class="m-0">
                              <img class="position-absolut rounded wow zoomIn" style="width:20vw" data-wow-delay="0.9s" src="img/aaravix-logo.jpeg" style="object-fit: cover;">
                          </h1>
-                     </a>
+                     </a> -->
                  </div>
              </div>
              <div class="col-lg-8 col-md-6">
@@ -45,7 +51,7 @@
                              <h3 class="text-light mb-0">Quick Links</h3>
                          </div>
                          <div class="link-animated d-flex flex-column justify-content-start">
-                             <a class="text-light mb-2" href="index.php"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+                             <a class="text-light mb-2" href="/"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
                              <a class="text-light mb-2" href="about.php"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
                              <a class="text-light mb-2" href="service.php"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
                              <a class="text-light mb-2" href="team.php"><i class="bi bi-arrow-right text-primary me-2"></i>Meet The Team</a>
@@ -58,7 +64,7 @@
                              <h3 class="text-light mb-0">Popular Links</h3>
                          </div>
                          <div class="link-animated d-flex flex-column justify-content-start">
-                             <a class="text-light mb-2" href="index.php"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+                             <a class="text-light mb-2" href="/"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
                              <a class="text-light mb-2" href="about.php"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
                              <a class="text-light mb-2" href="service.php"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
                              <a class="text-light mb-2" href="team.php"><i class="bi bi-arrow-right text-primary me-2"></i>Meet The Team</a>

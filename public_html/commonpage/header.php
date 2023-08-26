@@ -3,11 +3,11 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Aaravix - Aaravix Website Template</title>
+    <title>Aaravix - Software Development Company</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
-
+    <base href="/">
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
@@ -63,10 +63,10 @@
     <!-- Topbar End -->
     <!-- Navbar & Carousel Start -->
     <div class="container-fluid position-relative p-0">
-        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-            <a href="index.php" class="navbar-brand p-0">
+        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-lg-0">
+            <a href="/" class="navbar-brand p-0">
                 <h1 class="m-0">
-                    <img class="position-absolut rounded wow zoomIn" style="width:20vw" data-wow-delay="0.9s" src="img/a_logo.png" style="object-fit: cover;">
+                    <img class="position-absolut rounded wow zoomIn" style="width:20vw; max-width: 250px;" data-wow-delay="0.9s" src="img/a_logo.png" style="object-fit: cover;">
                 </h1>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -74,7 +74,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
-                    <a href="index.php" class="nav-item nav-link active">Home</a>
+                    <a href="/" class="nav-item nav-link active">Home</a>
                     <a href="about.php" class="nav-item nav-link">About</a>
                     <a href="service.php" class="nav-item nav-link">Services</a>
                     <div class="nav-item dropdown">

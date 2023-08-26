@@ -129,7 +129,7 @@ h6,
     position: relative;
     margin-left: 25px;
     padding: 35px 0;
-    color: #FFFFFF;
+    color: #1a72ca;
     font-size: 18px;
     font-weight: 600;
     outline: none;
@@ -181,6 +181,7 @@ h6,
         left: 0;
         border-bottom: 1px solid rgba(256, 256, 256, .1);
         z-index: 999;
+        background: #ffffff;
     }
     
     .sticky-top.navbar-dark {
