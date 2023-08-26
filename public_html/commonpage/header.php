@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="software development, website development, application development">
     <meta name="description" content="Welcome to Aaravix - Your Partner in Digital Transformation. We specialize in software development, website development, and application development to help businesses succeed in the digital era.">
-    <title>Aaravix - Software and Website Development Company</title>
+    <title>Software and Website Development Company</title>
     <base href="/">
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
