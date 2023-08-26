@@ -208,14 +208,6 @@ include 'commonpage/header.php'; // Include the header
 </div>
 <!-- Testimonial End -->
 
-
-<!-- Team Start -->
-<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-    <?php include 'commonpage/teamdata.php'; ?>
-</div>
-<!-- Team End -->
-
-
 <!-- Blog Start -->
 <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
     <div class="container py-5">
