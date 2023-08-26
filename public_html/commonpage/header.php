@@ -4,9 +4,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="software development, website development, application development">
-    <meta name="description" content="Welcome to Aaravix - Your Partner in Digital Transformation. We specialize in software development, website development, and application development to help businesses succeed in the digital era.">
-    <title>Software and Website Development Company</title>
+    <meta name="keywords" content="Website and Mobile application development">
+    <link rel="pingback" href="http://aaravix.com/">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <title>Aaravix - Website Development Company | Best SEO Company</title>
+    <meta name="description" content="Leading Web Designing Development company. Aaravix is a renowned web development company offering innovative solutions. We also serve as the best SEO company.">
+    <link rel="canonical" href="http://aaravix.com/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Aaravix - Web Design Development Company | Best SEO Company">
+    <meta property="og:description" content="Leading Web Designing Development company. Aaravix is a renowned web development company offering innovative solutions. We also serve as the best SEO company.">
+    <meta property="og:url" content="http://aaravix.com/">
+    <meta property="og:site_name" content="Aaravix">
+    <meta property="article:modified_time" content="2023-08-11T06:26:31+00:00">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Est. reading time">
+    <meta name="twitter:data1" content="9 minutes">
+
     <base href="/">
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
