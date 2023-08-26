@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <title>Aaravix - Software Development Company</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="software development, website development, application development">
+    <meta name="description" content="Welcome to Aaravix - Your Partner in Digital Transformation. We specialize in software development, website development, and application development to help businesses succeed in the digital era.">
+    <title>Aaravix - Software and Website Development Company</title>
     <base href="/">
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
