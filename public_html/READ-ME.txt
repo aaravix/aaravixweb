@@ -1,11 +1,11 @@
   =>  Template Name    : Aaravix - Aaravix Website Template
 
-  =>  Template Link    : https://www.aaravix.com//Aaravix-website-template
+  =>  Template Link    : https://aaravix.com/
 
-  =>  Template License : https://www.aaravix.com//license (or read the LICENSE.txt file)
+  =>  Template License : https://aaravix.com/ (or read the LICENSE.txt file)
 
   =>  Template Author  : Aaravix
 
-  =>  Author Website   : https://www.aaravix.com/
+  =>  Author Website   : https://aaravix.com/
 
-  =>  About Aaravix : Aaravix is one of the top website and mobile application development it company. Read more at ( https://www.aaravix.com//about-us )
+  =>  About Aaravix : Aaravix is one of the top website and mobile application development it company. Read more at ( https://aaravix.com/about.php )

@@ -84,8 +84,8 @@
                  <div class="d-flex align-items-center justify-content-center" style="height: 75px;">
                      <p class="mb-0">&copy; <a class="text-white border-bottom" href="#">Aaravix</a>. All Rights Reserved.
 
-                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://www.aaravix.com//credit-removal". Thank you for your support. ***/-->
-                         Designed by <a class="text-white border-bottom" href="https://www.aaravix.com/">Aaravix</a>
+                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://aaravix.com/". Thank you for your support. ***/-->
+                         Designed by <a class="text-white border-bottom" href="https://aaravix.com/">Aaravix</a>
                      </p>
                  </div>
              </div>

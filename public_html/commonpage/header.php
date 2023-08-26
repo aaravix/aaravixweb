@@ -5,16 +5,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Website and Mobile application development">
-    <link rel="pingback" href="http://aaravix.com/">
+    <link rel="pingback" href="https://aaravix.com/">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <title>Aaravix - Website Development Company | Best SEO Company</title>
     <meta name="description" content="Leading Web Designing Development company. Aaravix is a renowned web development company offering innovative solutions. We also serve as the best SEO company.">
-    <link rel="canonical" href="http://aaravix.com/">
+    <link rel="canonical" href="https://aaravix.com/">
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Aaravix - Web Design Development Company | Best SEO Company">
     <meta property="og:description" content="Leading Web Designing Development company. Aaravix is a renowned web development company offering innovative solutions. We also serve as the best SEO company.">
-    <meta property="og:url" content="http://aaravix.com/">
+    <meta property="og:url" content="https://aaravix.com/">
     <meta property="og:site_name" content="Aaravix">
     <meta property="article:modified_time" content="2023-08-11T06:26:31+00:00">
     <meta name="twitter:card" content="summary_large_image">
@@ -111,6 +111,6 @@
                     <a href="contact.php" class="nav-item nav-link">Contact</a>
                 </div>
                 <!-- <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
-                <a href="https://www.aaravix.com//Aaravix-company-website-template" class="btn btn-primary py-2 px-4 ms-3">Download Pro Version</a> -->
+                <a href="https://aaravix.com/" class="btn btn-primary py-2 px-4 ms-3">Download Pro Version</a> -->
             </div>
         </nav>
