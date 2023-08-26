@@ -74,7 +74,7 @@ include 'commonpage/header.php'; // Include the header
                     </div>
                     <div class="ps-4">
                         <h5 class="text-white mb-0">Happy Clients</h5>
-                        <h1 class="text-white mb-0" data-toggle="counter-up">12345</h1>
+                        <h1 class="text-white mb-0" data-toggle="counter-up">30+</h1>
                     </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@ include 'commonpage/header.php'; // Include the header
                     </div>
                     <div class="ps-4">
                         <h5 class="text-primary mb-0">Projects Done</h5>
-                        <h1 class="mb-0" data-toggle="counter-up">12345</h1>
+                        <h1 class="mb-0" data-toggle="counter-up">50+</h1>
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@ include 'commonpage/header.php'; // Include the header
                     </div>
                     <div class="ps-4">
                         <h5 class="text-white mb-0">Win Awards</h5>
-                        <h1 class="text-white mb-0" data-toggle="counter-up">12345</h1>
+                        <h1 class="text-white mb-0" data-toggle="counter-up">4+</h1>
                     </div>
                 </div>
             </div>
@@ -115,55 +115,7 @@ include 'commonpage/header.php'; // Include the header
 
 <!-- Features Start -->
 <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-    <div class="container py-5">
-        <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
-            <h5 class="fw-bold text-primary text-uppercase">Why Choose Us</h5>
-            <h1 class="mb-0">We Are Here to Grow Your Business Exponentially</h1>
-        </div>
-        <div class="row g-5">
-            <div class="col-lg-4">
-                <div class="row g-5">
-                    <div class="col-12 wow zoomIn" data-wow-delay="0.2s">
-                        <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-cubes text-white"></i>
-                        </div>
-                        <h4>Best In Industry</h4>
-                        <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
-                    </div>
-                    <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
-                        <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-award text-white"></i>
-                        </div>
-                        <h4>Award Winning</h4>
-                        <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4  wow zoomIn" data-wow-delay="0.9s" style="min-height: 350px;">
-                <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="img/feature.jpg" style="object-fit: cover;">
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="row g-5">
-                    <div class="col-12 wow zoomIn" data-wow-delay="0.4s">
-                        <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-users-cog text-white"></i>
-                        </div>
-                        <h4>Professional Staff</h4>
-                        <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
-                    </div>
-                    <div class="col-12 wow zoomIn" data-wow-delay="0.8s">
-                        <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-phone-alt text-white"></i>
-                        </div>
-                        <h4>24/7 Support</h4>
-                        <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include 'commonpage/featuredata.php'; ?>
 </div>
 <!-- Features Start -->
 
@@ -284,7 +236,7 @@ include 'commonpage/header.php'; // Include the header
                             <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
                         </div>
                         <h4 class="mb-3">How to build a website</h4>
-                        <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
+                        <p>Dive into the world of web design with expert tips and guidance to create stunning websites that captivate users.</p>
                         <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
@@ -300,9 +252,9 @@ include 'commonpage/header.php'; // Include the header
                             <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
                             <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
                         </div>
-                        <h4 class="mb-3">How to build a website</h4>
-                        <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                        <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                        <h4 class="mb-3">How to build an Android Application</h4>
+                        <p>Discover the step-by-step process of creating a feature-rich Android application, from ideation to deployment.</p>
+                            <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -317,14 +269,15 @@ include 'commonpage/header.php'; // Include the header
                             <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
                             <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
                         </div>
-                        <h4 class="mb-3">How to build a website</h4>
-                        <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                        <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                        <h4 class="mb-3">How to build an iPhone Application</h4>
+                        <p>Explore the world of iOS app development and learn how to create engaging and user-friendly iPhone applications.</p>
+                            <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
 </div>
 <!-- Blog Start -->
 

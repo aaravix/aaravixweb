@@ -8,48 +8,48 @@
             <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                 <img class="img-fluid rounded" src="img/testimonial-1.jpg" style="width: 60px; height: 60px;">
                 <div class="ps-4">
-                    <h4 class="text-primary mb-1">Client Name</h4>
-                    <small class="text-uppercase">Profession</small>
+                    <h4 class="text-primary mb-1">Olivia</h4>
+                    <small class="text-uppercase">Medical Professional</small>
                 </div>
             </div>
             <div class="pt-4 pb-5 px-5">
-                Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                As a medical professional, I'm thrilled with the IT solutions provided by Aaravix Technologies. Their expertise has enhanced our practice and patient care.
             </div>
         </div>
         <div class="testimonial-item bg-light my-4">
             <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                 <img class="img-fluid rounded" src="img/testimonial-2.jpg" style="width: 60px; height: 60px;">
                 <div class="ps-4">
-                    <h4 class="text-primary mb-1">Client Name</h4>
-                    <small class="text-uppercase">Profession</small>
+                    <h4 class="text-primary mb-1">Brandon Samantha</h4>
+                    <small class="text-uppercase">Security Professional</small>
                 </div>
             </div>
             <div class="pt-4 pb-5 px-5">
-                Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                Our security agency's operations have been elevated by the top-notch IT services provided by team. They've helped us enhance our security systems.
             </div>
         </div>
         <div class="testimonial-item bg-light my-4">
             <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                 <img class="img-fluid rounded" src="img/testimonial-3.jpg" style="width: 60px; height: 60px;">
                 <div class="ps-4">
-                    <h4 class="text-primary mb-1">Client Name</h4>
-                    <small class="text-uppercase">Profession</small>
+                    <h4 class="text-primary mb-1">Nathan Victoria</h4>
+                    <small class="text-uppercase">Automotive Professional</small>
                 </div>
             </div>
             <div class="pt-4 pb-5 px-5">
-                Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                Our motor company has benefited greatly from the tailored IT solutions provided. They've enhanced our operational efficiency.
             </div>
         </div>
         <div class="testimonial-item bg-light my-4">
             <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                 <img class="img-fluid rounded" src="img/testimonial-4.jpg" style="width: 60px; height: 60px;">
                 <div class="ps-4">
-                    <h4 class="text-primary mb-1">Client Name</h4>
-                    <small class="text-uppercase">Profession</small>
+                    <h4 class="text-primary mb-1">Jose Julie</h4>
+                    <small class="text-uppercase">Digital Services Advocate</small>
                 </div>
             </div>
             <div class="pt-4 pb-5 px-5">
-                Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                As a digital services advocate, I highly recommend this team for their exceptional IT solutions that have transformed our services.
             </div>
         </div>
     </div>
