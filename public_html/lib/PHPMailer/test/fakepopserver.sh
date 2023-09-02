@@ -2,6 +2,7 @@
 
 # Fake POP3 server
 # By Marcus Bointon <phpmailer@synchromedia.co.uk>
+# Copyright 2010 - 2020 Marcus Bointon
 # Based on code by 'Frater' found at http://www.linuxquestions.org/questions/programming-9/fake-pop3-server-to-capture-pop3-passwords-933733
 # Does not actually serve any mail, but supports commands sufficient to test POP-before SMTP
 # Can be run directly from a shell like this:
@@ -122,4 +123,4 @@ while [ ${BREAK} -eq 0 ] ; do
   fi
 done
 
-echo "+OK Bye!\r\n"
+echo -en "+OK Bye!\r\n"

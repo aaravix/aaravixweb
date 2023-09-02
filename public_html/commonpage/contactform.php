@@ -65,15 +65,25 @@
                     method: 'POST',
                     body: formData,
                 })
-                .then(response => response.json())
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json(); // Parse the JSON response
+                })
                 .then(data => {
-                    // Handle the response from the server
+                    // Handle the successful response from the server
                     console.log(data);
+                    alert(data.error ? data.error : data.message);
+                    window.location.reload(); // Refresh the page
                 })
                 .catch(error => {
                     // Handle errors
                     console.error("Error:", error);
+                    alert("Something went wrong, please try again after some time");
                 });
+
+
         }
     });
 
