@@ -55,7 +55,7 @@
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" target="_blank" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" target="_blank" href="https://www.linkedin.com/in/aaravix/"><i class="fab fa-linkedin-in fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" target="_blank" href=""><i class="fab fa-instagram fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" target="_blank" href=""><i class="fab fa-youtube fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" target="_blank" href="https://www.youtube.com/@Aaravix"><i class="fab fa-youtube fw-normal"></i></a>
                 </div>
             </div>
         </div>
