@@ -82,10 +82,10 @@
          <div class="row justify-content-end">
              <div class="col-lg-8 col-md-6">
                  <div class="d-flex align-items-center justify-content-center" style="height: 75px;">
-                     <p class="mb-0">&copy; <a class="text-white border-bottom" href="#">Aaravix</a>. All Rights Reserved.
+                     <p class="mb-0">&copy; <a class="text-white" style="text-decoration: none;" href="contact.php">Aaravix</a> All Rights Reserved.
 
                          <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://aaravix.com/". Thank you for your support. ***/-->
-                         Designed by <a class="text-white border-bottom" href="https://aaravix.com/">Aaravix</a>
+                         Designed by <a class="text-white" href="https://aaravix.com/"  style="text-decoration: none;">Aaravix Technologies Pvt Ltd</a>
                      </p>
                  </div>
              </div>

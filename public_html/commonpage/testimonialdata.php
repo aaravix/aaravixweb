@@ -13,7 +13,7 @@
                 </div>
             </div>
             <div class="pt-4 pb-5 px-5">
-                As a medical professional, I'm thrilled with the IT solutions provided by Aaravix Technologies. Their expertise has enhanced our practice and patient care.
+                As a medical professional, I'm thrilled with the IT solutions provided by Aaravix Technologies Pvt Ltd. Their expertise has enhanced our practice and patient care.
             </div>
         </div>
         <div class="testimonial-item bg-light my-4">

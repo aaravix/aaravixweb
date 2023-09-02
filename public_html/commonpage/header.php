@@ -4,24 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Website and Mobile application development">
-    <link rel="pingback" href="https://aaravix.com/">
-    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-    <title>Aaravix - Website Development Company | Best SEO Company</title>
-    <meta name="description" content="Leading Web Designing Development company. Aaravix is a renowned web development company offering innovative solutions. We also serve as the best SEO company.">
-    <link rel="canonical" href="https://aaravix.com/">
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Aaravix - Web Design Development Company | Best SEO Company">
-    <meta property="og:description" content="Leading Web Designing Development company. Aaravix is a renowned web development company offering innovative solutions. We also serve as the best SEO company.">
-    <meta property="og:url" content="https://aaravix.com/">
-    <meta property="og:site_name" content="Aaravix">
-    <meta property="article:modified_time" content="2023-08-11T06:26:31+00:00">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:label1" content="Est. reading time">
-    <meta name="twitter:data1" content="9 minutes">
-
-    <base href="/">
+    <meta name="description" content="Aaravix - Your Trusted Web and App Development Partner. We specialize in web development, app development, technology solutions, and more.">
+    <meta name="keywords" content="Aaravix, web development, app development, technology solutions, web design, responsive websites, mobile app development, software development, digital transformation, custom web applications, web and mobile solutions">
+    <meta name="author" content="Aaravix Team">
+    <meta name="robots" content="index, follow">
+    <title>Aaravix - Web and App Development Experts</title>
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
@@ -52,7 +39,6 @@
     </div>
     <!-- Spinner End -->
 
-
     <!-- Topbar Start -->
     <div class="container-fluid bg-dark px-5 d-none d-lg-block">
         <div class="row gx-0">
@@ -75,6 +61,7 @@
         </div>
     </div>
     <!-- Topbar End -->
+
     <!-- Navbar & Carousel Start -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-lg-0">
@@ -101,7 +88,6 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Company</a>
                         <div class="dropdown-menu m-0">
-                            <!-- <a href="price.php" class="dropdown-item">Pricing Plan</a> -->
                             <a href="feature.php" class="dropdown-item">Our features</a>
                             <a href="team.php" class="dropdown-item">Our team</a>
                             <a href="testimonial.php" class="dropdown-item">Testimonial</a>
@@ -110,7 +96,7 @@
                     </div>
                     <a href="contact.php" class="nav-item nav-link">Contact</a>
                 </div>
-                <!-- <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
-                <a href="https://aaravix.com/" class="btn btn-primary py-2 px-4 ms-3">Download Pro Version</a> -->
             </div>
         </nav>
+    </div>
+    <!-- Navbar & Carousel End -->
