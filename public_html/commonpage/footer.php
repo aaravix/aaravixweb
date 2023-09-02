@@ -40,10 +40,10 @@
                              <p class="mb-0">+91 977 9885 507</p>
                          </div>
                          <div class="d-flex mt-4">
-                             <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-twitter fw-normal"></i></a>
-                             <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
-                             <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
-                             <a class="btn btn-primary btn-square" href="#"><i class="fab fa-instagram fw-normal"></i></a>
+                             <a class="btn btn-primary btn-square me-2" target="_blank" href="https://twitter.com/AaravixTeam"><i class="fab fa-twitter fw-normal"></i></a>
+                             <a class="btn btn-primary btn-square me-2" target="_blank" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
+                             <a class="btn btn-primary btn-square me-2" target="_blank" href="https://www.linkedin.com/in/aaravix/"><i class="fab fa-linkedin-in fw-normal"></i></a>
+                             <a class="btn btn-primary btn-square" target="_blank" href="#"><i class="fab fa-instagram fw-normal"></i></a>
                          </div>
                      </div>
                      <div class="col-lg-6 col-md-12 pt-0 pt-lg-5 mb-5">

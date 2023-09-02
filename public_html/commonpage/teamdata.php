@@ -10,10 +10,10 @@
                 <div class="team-img position-relative overflow-hidden">
                     <img class="img-fluid w-100" src="img/aaravix-fab.jpeg" alt="">
                     <div class="team-social">
-                        <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-twitter fw-normal"></i></a> -->
+                        <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href="https://twitter.com/AaravixTeam"><i class="fab fa-twitter fw-normal"></i></a>
                         <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
                         <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-instagram fw-normal"></i></a> -->
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
+                        <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href="https://www.linkedin.com/in/aaravix/"><i class="fab fa-linkedin-in fw-normal"></i></a>
                     </div>
                 </div>
                 <div class="text-center py-4">
@@ -29,7 +29,7 @@
                 <div class="team-img position-relative overflow-hidden">
                     <img class="img-fluid w-100" src="img/director.jpg" alt="">
                     <div class="team-social">
-                        <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a> -->
+                        <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href="https://twitter.com/AaravixTeam"><i class="fab fa-twitter fw-normal"></i></a>
                         <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href="https://www.facebook.com/shubhamraj.2528"><i class="fab fa-facebook-f fw-normal"></i></a>
                         <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-instagram fw-normal"></i></a> -->
                         <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href="https://www.linkedin.com/in/shubham-raj-9654b590/"><i class="fab fa-linkedin-in fw-normal"></i></a>
@@ -49,10 +49,10 @@
                 <div class="team-img position-relative overflow-hidden">
                     <img class="img-fluid w-100" src="img/aaravix-fab.jpeg" alt="">
                     <div class="team-social">
-                        <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-twitter fw-normal"></i></a> -->
+                        <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href="https://twitter.com/AaravixTeam"><i class="fab fa-twitter fw-normal"></i></a>
                         <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
                         <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-instagram fw-normal"></i></a> -->
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
+                        <a class="btn btn-lg btn-primary btn-lg-square rounded" target="_blank" href="https://www.linkedin.com/in/aaravix/"><i class="fab fa-linkedin-in fw-normal"></i></a>
                     </div>
                 </div>
                 <div class="text-center py-4">
